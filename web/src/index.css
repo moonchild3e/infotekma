@@ -89,6 +89,27 @@ section{
     height: 160vh;
 }
 
+section1 {
+    margin-top: 20rem;
+    height: 200vh;
+}
+
+section1 > h2, 
+section1 > h5 {
+    text-align: center;
+    color: var(--color-light);
+
+}
+
+section1 > h2 {
+    color:var(--color-primary);
+    margin-bottom: 3rem;
+}
+
+.text-light{
+    color:var(--color-light);
+}
+
 section > h2, 
 section > h5 {
     text-align: center;
