@@ -1,0 +1,176 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;1,300&display=swap');
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    outline: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root {
+    --color-bg: white;
+    --color-bg-variant:#a11b1b;
+    --color-primary: black;
+    --color-primary2:#38ADEC;
+    --color-white:white;
+    --color-light:rgba(12, 12, 12, 0.6);
+
+    --transition: all 400ms ease;
+
+    --container-width-lg: 75%;
+    --container-width-md: 86%;
+    --container-width-sm: 90%;
+
+}
+
+.permalinks {
+    color: black;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    font-family: 'Source Serif Pro', serif;
+    background: var(--color-bg);
+    color: var(--color-black);
+    line-height: 1.7 ;
+
+}
+
+.container {
+    width: var(--container-width-lg);
+    margin: 0 auto;
+    
+}
+
+smol {
+    font-size: 13px;
+    color: black;
+}
+det {
+    font-size: 15px;
+    font-weight: lighter;
+    justify-content: left;
+}
+h6 {
+    font-size: 15px;
+    font-weight: 400;
+}
+h5{
+    font-size: 20px;
+}
+h2 {
+    font-size: 30px;
+}
+
+h1, h2, h3, h5 {
+    font-weight: 500;
+}
+
+h4 { 
+    font-weight: 500;
+    text-align: justify;
+}
+    
+h1{
+    font-size: 2.5rem;
+}
+
+section{
+    margin-top: 10rem;
+    height: 160vh;
+}
+
+section > h2, 
+section > h5 {
+    text-align: center;
+    color: var(--color-light);
+
+}
+
+section > h2 {
+    color:var(--color-primary);
+    margin-bottom: 3rem;
+}
+
+.text-light{
+    color:var(--color-light);
+}
+
+a {
+    color: black;
+
+
+}
+
+a:hover{
+    color: var(--color-white);
+
+}
+
+.btn{
+    width: max-content;
+    display: inline-block;
+    color: var(--color-primary);
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid var(--color-primary);
+    transition: var(--transition);
+}
+
+.btn:hover{
+    background: #303131;
+    color: white ;
+    border-color: transparent;
+}
+
+.btn-primary {
+    background: var(--color-primary);
+    color: white;
+}
+
+img{
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+.testi{
+    color: black;
+}
+
+
+@media screen and (max-width: 1024px){
+    .container{
+        width: var(--container-width-md);
+    }
+
+    section > h2 {
+        margin-top:6rem;
+    }
+
+
+
+}
+
+@media screen and (max-width: 600px){
+    .container{
+        width: var(--container-width-sm);
+    }
+
+    section > h2 {
+        margin-top:2rem;
+    }
+
+
+
+}
