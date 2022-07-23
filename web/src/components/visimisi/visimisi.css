@@ -61,11 +61,7 @@ mobile responsive */
         font-size: 10px;
     }
 
-    .visi{
-        text-align: center;
-        align-items: center;
-
-    }
+    
 }
 
 @media screen and (max-width: 600px){

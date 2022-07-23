@@ -10,11 +10,10 @@ import {IoThumbsUpOutline} from 'react-icons/io5'
  
 const Visimisi = () => {
   return (
-    <section1 id='visimisi'>
-      <div className='visi'>
+    <section id='visimisi'>
+    
       <h5> Vision and Mission </h5>
       <h2> Visi dan Misi </h2>
-      </div>
 
     
       <div className='container experience__container'>
@@ -35,7 +34,7 @@ const Visimisi = () => {
             </div>
           </div>
       </div>
-      </section1>
+      </section>
 
   )
 }
