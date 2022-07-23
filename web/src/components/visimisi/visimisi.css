@@ -50,7 +50,8 @@ mobile responsive */
 @media screen and (max-width: 1024px){
     .experience__container{
         grid-template-columns: 1fr ;
-        width: 30%;
+        width: 20%;
+        padding-top: 10rem;
     }
 
     .experience__container > div {
@@ -58,6 +59,13 @@ mobile responsive */
         padding: 2rem;
         margin: 0 auto;
         font-size: 10px;
+    }
+
+    .visi{
+        padding-top: 10rem;
+        text-align: center;
+        align-items: center;
+
     }
 }
 
