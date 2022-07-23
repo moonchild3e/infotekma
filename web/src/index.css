@@ -92,6 +92,7 @@ section{
 section1 {
     margin-top: 20rem;
     height: 200vh;
+    margin-bottom: 20rem;
 }
 
 section1 > h2, 
