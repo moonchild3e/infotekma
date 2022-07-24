@@ -33,7 +33,7 @@ const Visimisi = () => {
           <h3> Misi </h3>
           <div className='"experience__content'>
             <article className='experience__details'>
-            <h3> Fokus pada solisi komprehensif dengan inovasi produk terbaru dan layanan sempurna sebagai bentuk hubungan jangka panjang yang berkelanjutan </h3>
+            <h3> Fokus pada solusi komprehensif dengan inovasi produk terbaru dan layanan sempurna sebagai bentuk hubungan jangka panjang yang berkelanjutan </h3>
             </article>
             </div>
           </div>

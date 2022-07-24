@@ -51,7 +51,7 @@ const About = () => {
           </article>
         </div>
         <p>
-        PT. Informatika Teknologi Bersama adalah perusahaan yang bergerak di bidang Integrator. Kami menawarkan solusi terintegrasi lengkap untuk bisnis Anda dalam lingkup konsultan, penyediaan, desain, aplikasi, dan pemeliharaan perangkat dalam sistem teknologi informasi. Produk dan layanan kami dihasilkan dari inovasi yang dikembangkan terus menerus berdasarkan kebutuhan klien dalam setiap proses bisnis. Kami memiliki tim yang andal dan profesional serta memiliki lokasi layanan yang konprehensif di berbagai daerah di Indonesia yang siap memberikan layanan terbaik untuk Anda.
+        PT. Informatika Teknologi Bersama adalah perusahaan yang bergerak di bidang Integrator. Kami menawarkan solusi terintegrasi lengkap untuk bisnis Anda dalam lingkup konsultan, penyediaan, desain, aplikasi, dan pemeliharaan perangkat dalam sistem teknologi informasi. Produk dan layanan kami dihasilkan dari inovasi yang dikembangkan terus menerus berdasarkan kebutuhan klien dalam setiap proses bisnis. Kami memiliki tim yang andal dan profesional serta memiliki lokasi layanan yang komprehensif di berbagai daerah di Indonesia yang siap memberikan layanan terbaik untuk Anda.
         </p>
       </div>
     </div>

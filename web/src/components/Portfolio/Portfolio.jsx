@@ -22,7 +22,7 @@ const data = [
   {
     avatar: unidalog, 
     title: 'UNIDALOG',
-    details :  "UNIDALOG merupakan perangkat elektronik yang mampu untuk mengambil data-data pengukuran dari sensor, menyimpan data-data tersebut ke memori, dan selanjutnya mengirimkan data-data tersebut ke Data Base Server secara “remote”. UNIDALOG merupakan Data Logger multi fungsi, yang dapat dimanfaatkan untuk berbagaimacam aplikasi yang terkait dengan akuisisi data dan telemetri.",
+    details :  "UNIDALOG merupakan perangkat elektronik yang mampu untuk mengambil data-data pengukuran dari sensor, menyimpan data-data tersebut ke memori, dan selanjutnya mengirimkan data-data tersebut ke Data Base Server secara “remote”. UNIDALOG merupakan Data Logger multi fungsi, yang dapat dimanfaatkan untuk berbagai macam aplikasi yang terkait dengan akuisisi data dan telemetri.",
   },
   {
   avatar: uni, 
@@ -32,7 +32,7 @@ const data = [
   {
     avatar: kop, 
     title: 'APLIKASI KOPERASI: Litebrain Koperasi Simpan Pinjam',
-    details :  "Disesuaikan dengan kebutuhan Aplikasi, Seperti Menu Simpan Pinjam, Menu daftar anggota (Tambah/Hapus), Menu Pengaturan, Menu Menu lainya dapat disesuaikan dengan kebutuhan User.",
+    details :  "Disesuaikan dengan kebutuhan Aplikasi, Seperti Menu Simpan Pinjam, Menu daftar anggota (Tambah/Hapus), Menu Pengaturan, Menu Menu lainnya dapat disesuaikan dengan kebutuhan User.",
   }
 ]
 
