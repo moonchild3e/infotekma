@@ -1,17 +1,11 @@
 import React from 'react'
 import './portfolio.css'
-import simpan from '../../assets/simpan.jpg'
-import maintain from '../../assets/maintain.jpg'
 import kop from '../../assets/kop.jpg'
-import kope from '../../assets/kope.jpg'
 import app from '../../assets/app.jpg'
 import unidalog from '../../assets/unidalog.jpg'
-import last from '../../assets/last.jpg'
-import unidalog2 from '../../assets/unidalog2.jpg'
 import uni from '../../assets/uni.jpg'
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Pagination } from 'swiper';
-
 import 'swiper/css';
 import 'swiper/css/pagination';
 
@@ -22,7 +16,7 @@ const data = [
   {
     avatar: app, 
     title: 'Software Managemen Koperasi Berbasis Online Sistem IoT',
-    details :  "Disesuaikan dengan kebutuhan Aplikasi, Seperti Menu Simpan Pinjam, Menu Toko (Bayar dan Belanja), Menu Deposit, Menu daftar anggota (Tambah/Hapus), Menu Pengaturan, Menu Penukaran Voucer, Menu Pembagian SHU, dan Menu lainya",
+    details :  "Disesuaikan dengan kebutuhan Aplikasi, Seperti Menu Simpan Pinjam, Menu Toko (Bayar dan Belanja), Menu Deposit, Menu daftar anggota (Tambah/Hapus), Menu Pengaturan, Menu Penukaran Voucer, Menu Pembagian SHU, dan Menu lainnya",
     
   },
   {
