@@ -1,10 +1,10 @@
-.about__container {
+.about__strength {
     display: grid;
     grid-template-columns: 35% 50%;
     gap: 15%
 }
 
-.about__me {
+.stregth__me {
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 2rem;
@@ -78,7 +78,7 @@
 }
 
 @media screen and (max-width: 1024px){
-    .about__container{
+    .about__strength{
         grid-template-columns: 1fr;
         gap: 0;
     }

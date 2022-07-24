@@ -6,7 +6,7 @@
 }
 
 .experience__container > div {
-    background: rgb(146, 23, 23);
+    background:#38ADEC;
     padding: 3rem 5rem;
     border-radius: 2rem;
     border: 1px solid transparent;
@@ -16,9 +16,9 @@
 
 .experience__container > div:hover {
     background: transparent;
-    border-color:rgb(173, 80, 80);
+    border-color:#6fbbe4;
     color: black;
-    background-color:rgb(70, 27, 27);
+    background-color:#6fbbe4;
     cursor: default;
 }
 
@@ -50,7 +50,23 @@
     padding-top: 20rem;
     text-align: center;
     
+    
 }
+
+.visi h5{ 
+    color:var(--color-primary);
+    text-align: center;
+    color: var(--color-light);
+
+}
+
+.visi h5{ 
+    color:var(--color-primary);
+    text-align: center;
+    color: var(--color-light);
+
+}
+
 /* 
 mobile responsive */
 @media screen and (max-width: 1024px){
@@ -71,6 +87,12 @@ mobile responsive */
         text-align: center;
         
     }
+
+    .visi > h2 {
+        color:var(--color-primary);
+        margin-bottom: 3rem;
+    }
+    
     
 }
 

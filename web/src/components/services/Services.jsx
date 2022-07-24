@@ -16,8 +16,8 @@ const Services = () => {
     <h2> Kekuatan Kami </h2>
 
 
-    <div className='container about__container'>
-      <div className='about__me'>
+    <div className='container strength__container'>
+      <div className='strength__me'>
         <div className='about__me-image'>
         </div>
       </div>

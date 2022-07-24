@@ -44,7 +44,7 @@ const Contact = () => {
         <form ref ={form} onSubmit ={sendEmail}>
           <input type="text" name= 'name' placeholder="Full name/ Nama Lengkap" required/>
           <input type="email" name= 'name' placeholder="Email" required/>
-          <textarea name="message" rows="7" placeholder="Message/ Pesan" required/><textarea/>
+          <textarea id="my-textarea" class="textarea-for-page" row = "20" placeholder = "Message/ Pesan" rows="5"></textarea>
           <button type='submit' className='btn btn-primary'> Kirim </button>
         </form>
       </div>
